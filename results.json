@@ -1,6 +1,60 @@
 {
  "version": 1,
- "updated": "2026-10-30T16:01:52Z",
- "searches": [],
+ "updated": "2026-10-30T16:07:49Z",
+ "searches": [
+  {
+   "area": "Cullman, AL",
+   "created": "2026-10-30T16:07:28Z",
+   "jobId": "job-1793376310000",
+   "query": "coffee shops",
+   "results": [
+    {
+     "address": "304 1st Ave SE, Cullman, AL 35055",
+     "hours": "Mon-Tue 7 AM-2 PM, Wed-Fri 7 AM-5 PM, Sat 8 AM-12 PM, Sun closed",
+     "name": "Berkeley Bob's Coffee House",
+     "phone": "+1 256-775-2944",
+     "placeId": "772097210596179",
+     "rating": 4.7,
+     "why": "Downtown independent, 4.7 stars from 377 reviews, live music and full espresso bar - strong repeat crowd, no app."
+    },
+    {
+     "address": "103 1st Ave NE, Cullman, AL 35055",
+     "hours": "Mon-Fri 6:30 AM-6:30 PM, Sat 8 AM-6 PM, Sun closed",
+     "name": "Karma's Coffee House",
+     "phone": "+1 256-841-5936",
+     "placeId": "622771979416958",
+     "rating": null,
+     "why": "Warehouse District staple with the longest weekday hours; breakfast and specialty lattes drive daily repeat visits."
+    },
+    {
+     "address": "181 AL-69, Hanceville, AL 35077",
+     "hours": "Mon-Sat 5 AM-2 PM, Sun closed",
+     "name": "Big Boom Coffee Company",
+     "phone": "+1 205-363-3306",
+     "placeId": "2416064448812101",
+     "rating": null,
+     "why": "Drive-thru plus breakfast menu in Hanceville; early hours catch commuters - order-ahead fits perfectly."
+    },
+    {
+     "address": "324 County Rd 222, Cullman, AL 35055",
+     "hours": "Tue-Sat 6 AM-2 PM, Sun-Mon closed",
+     "name": "NoCo Grit Coffee",
+     "phone": "+1 256-737-7333",
+     "placeId": "1154853369237612",
+     "rating": null,
+     "why": "Small local coffee stop south of town with morning regulars - clear call / order-ahead app gap."
+    },
+    {
+     "address": "510 5th St SW, Cullman, AL 35055",
+     "hours": "Sun 7:15 AM-12:45 PM, Wed 4:30-6:30 PM (limited hours)",
+     "name": "DC Cafe",
+     "phone": "+1 256-798-2439",
+     "placeId": "753102422410760",
+     "rating": null,
+     "why": "Family-friendly cafe with indoor playground and nitro brews - niche loyal crowd; note limited listed hours."
+    }
+   ]
+  }
+ ],
  "builds": []
 }
