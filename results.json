@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T16:47:29Z",
+ "updated": "2026-10-30T16:55:14Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -117,6 +117,22 @@
    "updated": "2026-10-30T16:33:00Z",
    "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/appforge-feed/main/apks/reyes-pizza.apk",
    "notes": "v1.1 \u2014 their logo + full pizzeria UI. Prices confirmed at pickup (owner to confirm exact pricing)."
+  },
+  {
+   "jobId": "job-1793378858842",
+   "business": "Berkeley Bob's Coffee House",
+   "status": "building",
+   "updated": "2026-10-30T16:54:00Z",
+   "apkUrl": "",
+   "notes": "Verified via Places \u2014 building first version"
+  },
+  {
+   "jobId": "job-1793379028034",
+   "business": "Berkeley Bob's Coffee House",
+   "status": "building",
+   "updated": "2026-10-30T16:54:00Z",
+   "apkUrl": "",
+   "notes": "Verified via Places \u2014 building first version (duplicate pick of same business)"
   }
  ]
 }
