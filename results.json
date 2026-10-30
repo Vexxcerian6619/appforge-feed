@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T17:06:00Z",
+ "updated": "2026-10-30T19:12:18Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -133,6 +133,14 @@
    "updated": "2026-10-30T17:06:00Z",
    "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/appforge-feed/main/apks/berkeley-bobs.apk",
    "notes": "v1.0 ready \u2014 same build as the first tap (duplicate job)."
+  },
+  {
+   "jobId": "job-1793387390456",
+   "business": "Downtown Nutrition - Cullman",
+   "status": "building",
+   "updated": "2026-10-30T19:11:00Z",
+   "apkUrl": "",
+   "notes": "Build started \u2014 verifying business facts via Places."
   }
  ]
 }
