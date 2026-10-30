@@ -1,0 +1,24 @@
+{
+ "version": 1,
+ "updated": "2026-10-30T16:00:59Z",
+ "searches": [
+  {
+   "jobId": "test-feed-roundtrip",
+   "created": "2026-10-30T15:45:00Z",
+   "query": "TEST ENTRY - feed round trip, will be removed",
+   "area": "Testville",
+   "results": [
+    {
+     "name": "Test Cafe",
+     "address": "1 Main St, Testville, AL",
+     "phone": "256-555-0100",
+     "hours": "Mon-Fri 7-3",
+     "rating": 4.5,
+     "why": "TEST",
+     "placeId": "test-place-id"
+    }
+   ]
+  }
+ ],
+ "builds": []
+}
