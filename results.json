@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T19:23:11Z",
+ "updated": "2026-10-30T20:00:57Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -137,10 +137,10 @@
   {
    "jobId": "job-1793387390456",
    "business": "Downtown Nutrition - Cullman",
-   "status": "building",
-   "updated": "2026-10-30T19:25:00Z",
-   "apkUrl": "",
-   "notes": "Built and verified \u2014 APK awaiting repo upload. Verified: 324 2nd Ave SE, 256-709-5467, Mon-Fri 6:30-4, Sat 8-2, Sun closed. Prices/menu flavors TODO_OWNER (confirmed at pickup)."
+   "status": "ready",
+   "updated": "2026-10-30T20:00:56Z",
+   "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/appforge-feed/main/apks/downtown-nutrition.apk",
+   "notes": "v1.0 ready \u2014 verified: 324 2nd Ave SE, Cullman \u00b7 256-709-5467 \u00b7 Mon\u2013Fri 6:30\u20134, Sat 8\u20132, Sun closed. Menu/prices confirmed at the shop (TODO_OWNER)."
   }
  ]
 }
