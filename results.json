@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T16:33:14Z",
+ "updated": "2026-10-30T16:47:29Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -52,6 +52,59 @@
      "placeId": "753102422410760",
      "rating": null,
      "why": "Family-friendly cafe with indoor playground and nitro brews - niche loyal crowd; note limited listed hours."
+    }
+   ]
+  },
+  {
+   "area": "Cullman, AL",
+   "created": "2026-10-30T16:47:07Z",
+   "jobId": "job-1793378743454",
+   "query": "Nutrition shops",
+   "results": [
+    {
+     "address": "324 2nd Ave SE, Cullman, AL 35055",
+     "hours": "Mon-Fri 6:30 AM-4:00 PM, Sat 8 AM-2 PM, Sun closed",
+     "name": "Downtown Nutrition - Cullman",
+     "phone": "+1 256-709-5467",
+     "placeId": "2275067822645212",
+     "rating": null,
+     "why": "Downtown loaded-tea and protein-shake bar with daily repeat crowd - order-ahead / call fits, no app."
+    },
+    {
+     "address": "1821 Eva Rd NE, Cullman, AL 35058",
+     "hours": "Mon-Fri 6 AM-5 PM, Sat 7 AM-3 PM, Sun 12-3 PM",
+     "name": "Catoma Nutrition",
+     "phone": "+1 256-531-7265",
+     "placeId": "1047202740269166",
+     "rating": null,
+     "why": "Open 7 days with loaded teas, shakes and acai bowls - strong repeat trade, no app."
+    },
+    {
+     "address": "503 Main Ave SW, Cullman, AL 35055",
+     "hours": "Mon-Fri 7 AM-4 PM, Sat 8 AM-2 PM, Sun closed",
+     "name": "Main Nutrition",
+     "phone": "+1 256-436-8286",
+     "placeId": "740935730535926",
+     "rating": null,
+     "why": "Downtown teas, shakes and coffee; regulars remembered by staff - reorder / order-ahead gap."
+    },
+    {
+     "address": "1405 2nd Ave SW, Cullman, AL 35055",
+     "hours": "Mon-Fri 7 AM-6 PM, Sat 7 AM-4 PM, Sun closed",
+     "name": "Warehouse Nutrition, Inc.",
+     "phone": "+1 256-615-1225",
+     "placeId": "4514904452075953",
+     "rating": null,
+     "why": "Longest weekday hours in the set; shakes, loaded teas and acai bowls draw daily regulars."
+    },
+    {
+     "address": "1207 2nd Ave NW, Cullman, AL 35055",
+     "hours": "Mon-Fri 7 AM-4 PM, Sat 8 AM-2 PM, Sun closed",
+     "name": "Cullman 31 Nutrition",
+     "phone": "+1 256-436-0717",
+     "placeId": "848772342773616",
+     "rating": null,
+     "why": "Loaded and mega teas plus protein balls on 2nd Ave NW - repeat morning trade, no app."
     }
    ]
   }
