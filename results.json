@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T16:07:49Z",
+ "updated": "2026-10-30T16:33:14Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -56,5 +56,14 @@
    ]
   }
  ],
- "builds": []
+ "builds": [
+  {
+   "jobId": "job-1793328407910",
+   "business": "Reyes Pizza",
+   "status": "ready",
+   "updated": "2026-10-30T16:33:00Z",
+   "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/appforge-feed/main/apks/reyes-pizza.apk",
+   "notes": "v1.1 \u2014 their logo + full pizzeria UI. Prices confirmed at pickup (owner to confirm exact pricing)."
+  }
+ ]
 }
