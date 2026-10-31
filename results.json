@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-31T18:07:19Z",
+ "updated": "2026-10-31T18:08:16Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -153,18 +153,10 @@
   {
    "jobId": "job-1793468012586",
    "business": "Cullman 31 Nutrition",
-   "status": "building",
-   "updated": "2026-10-31T17:58:58Z",
-   "apkUrl": "",
-   "notes": "Built and verified \u2014 APK awaiting repo upload"
-  },
-  {
-   "apkUrl": "",
-   "business": "Downtown Nutrition - Cullman",
-   "jobId": "job-1793469267778",
-   "notes": "Style re-roll in progress",
-   "status": "building",
-   "updated": "2026-10-31T18:06:43Z"
+   "status": "ready",
+   "updated": "2026-10-31T18:08:16Z",
+   "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/appforge-feed/main/apks/cullman-31-nutrition.apk",
+   "notes": "v1.0 ready \u2014 verified: 1207 2nd Ave NW, Cullman \u00b7 256-436-0717 \u00b7 Mon\u2013Fri 7\u20134, Sat 8\u20132, Sun closed. Prices/menu TODO_OWNER."
   }
  ]
 }
