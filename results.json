@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-31T02:01:01Z",
+ "updated": "2026-10-31T17:37:36Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -149,6 +149,14 @@
    "updated": "2026-10-31T02:01:01Z",
    "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/appforge-feed/main/apks/main-nutrition.apk",
    "notes": "v1.0 ready \u2014 Places-verified facts. Prices confirmed at pickup; full menu/flavors TODO_OWNER."
+  },
+  {
+   "jobId": "job-1793468012586",
+   "business": "Cullman 31 Nutrition",
+   "status": "building",
+   "updated": "2026-10-31T17:37:08Z",
+   "apkUrl": "",
+   "notes": "Building v1.0 \u2014 verifying facts"
   }
  ]
 }
