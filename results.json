@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-31T00:17:28Z",
+ "updated": "2026-10-31T01:08:45Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -146,9 +146,9 @@
    "apkUrl": "",
    "business": "Main Nutrition",
    "jobId": "job-1793405633078",
-   "notes": "Building first version \u2014 verifying facts via Places.",
+   "notes": "Built and verified \u2014 APK awaiting repo upload. Prices confirmed at pickup; full menu/flavors TODO_OWNER.",
    "status": "building",
-   "updated": "2026-10-31T00:17:13Z"
+   "updated": "2026-10-31T01:08:33Z"
   }
  ]
 }
