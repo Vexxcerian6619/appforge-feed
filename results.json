@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-31T17:37:36Z",
+ "updated": "2026-10-31T17:59:24Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -154,9 +154,9 @@
    "jobId": "job-1793468012586",
    "business": "Cullman 31 Nutrition",
    "status": "building",
-   "updated": "2026-10-31T17:37:08Z",
+   "updated": "2026-10-31T17:58:58Z",
    "apkUrl": "",
-   "notes": "Building v1.0 \u2014 verifying facts"
+   "notes": "Built and verified \u2014 APK awaiting repo upload"
   }
  ]
 }
