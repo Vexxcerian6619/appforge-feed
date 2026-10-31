@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-31T17:59:24Z",
+ "updated": "2026-10-31T18:07:19Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -157,6 +157,14 @@
    "updated": "2026-10-31T17:58:58Z",
    "apkUrl": "",
    "notes": "Built and verified \u2014 APK awaiting repo upload"
+  },
+  {
+   "apkUrl": "",
+   "business": "Downtown Nutrition - Cullman",
+   "jobId": "job-1793469267778",
+   "notes": "Style re-roll in progress",
+   "status": "building",
+   "updated": "2026-10-31T18:06:43Z"
   }
  ]
 }
