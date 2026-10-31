@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T22:33:28Z",
+ "updated": "2026-10-31T00:17:28Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -141,6 +141,14 @@
    "updated": "2026-10-30T22:33:28Z",
    "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/appforge-feed/main/apks/downtown-nutrition.apk",
    "notes": "v1.1 ready \u2014 Hanceville-level: their logo, accounts + punch card, favorites, pickup/delivery ordering, owner login, in-app update checker. Reward terms + exact menu/prices TODO_OWNER."
+  },
+  {
+   "apkUrl": "",
+   "business": "Main Nutrition",
+   "jobId": "job-1793405633078",
+   "notes": "Building first version \u2014 verifying facts via Places.",
+   "status": "building",
+   "updated": "2026-10-31T00:17:13Z"
   }
  ]
 }
