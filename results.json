@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-31T01:08:45Z",
+ "updated": "2026-10-31T02:01:01Z",
  "searches": [
   {
    "area": "Cullman, AL",
@@ -143,12 +143,12 @@
    "notes": "v1.1 ready \u2014 Hanceville-level: their logo, accounts + punch card, favorites, pickup/delivery ordering, owner login, in-app update checker. Reward terms + exact menu/prices TODO_OWNER."
   },
   {
-   "apkUrl": "",
-   "business": "Main Nutrition",
    "jobId": "job-1793405633078",
-   "notes": "Built and verified \u2014 APK awaiting repo upload. Prices confirmed at pickup; full menu/flavors TODO_OWNER.",
-   "status": "building",
-   "updated": "2026-10-31T01:08:33Z"
+   "business": "Main Nutrition",
+   "status": "ready",
+   "updated": "2026-10-31T02:01:01Z",
+   "apkUrl": "https://raw.githubusercontent.com/Vexxcerian6619/appforge-feed/main/apks/main-nutrition.apk",
+   "notes": "v1.0 ready \u2014 Places-verified facts. Prices confirmed at pickup; full menu/flavors TODO_OWNER."
   }
  ]
 }
